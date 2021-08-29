@@ -8,10 +8,11 @@ use App\Models\Category;
 use App\Models\Comment;
 class HomeController extends Controller
 {
+    // Search Function
     function index(Request $request){
-    	// $posts=Post::orderBy('id','desc')->simplePaginate(1);
     	if($request->has('q')){
     		$q=$request->q;
+        // $posts=Post::orderBy('id','desc')->simplePaginate(1);
     		$posts=Post::where('title','like','%'.$q.'%')->orderBy('id','desc')->paginate(6);
     	}else{
     		$posts=Post::orderBy('id','desc')->paginate(6);

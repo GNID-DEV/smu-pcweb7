@@ -46,6 +46,7 @@
         </table>
         </div>
 			</div>
+		</div>
 			
       {{-- <!-- Right SIdebar -->
 			<div class="col-md-4">
@@ -88,7 +89,7 @@
 			</div>
 		</div><!-- Right SIdebar --> --}}
 
-{{-- Footer --}}
+    {{-- Footer --}}
 <footer class="footer">
   <div class="container">
     {{--  --}}
@@ -147,6 +148,7 @@
 
     <!-- fontawesome -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
 
 <!-- Page level plugin CSS-->
 <link href="{{asset('backend')}}/vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">

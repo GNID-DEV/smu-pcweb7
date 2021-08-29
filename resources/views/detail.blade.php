@@ -51,9 +51,11 @@
 					</div>
 				</div>
 			</div>
+
 			<!-- Right SIdebar -->
 			<div class="col-md-4">
-				<!-- Search -->
+				
+        <!-- Search -->
 				<div class="card mb-4">
 					<h5 class="card-header">Search</h5>
 					<div class="card-body">
@@ -92,7 +94,7 @@
 			</div>
 		</div><!-- Right SIdebar -->
 
-    {{-- Footer --}}
+{{-- Footer --}}
 <footer class="footer">
   <div class="container">
     {{--  --}}
@@ -149,6 +151,6 @@
 </footer>
 {{-- Footer --}}
 
-    <!-- fontawesome -->
+<!-- fontawesome -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 @endsection('content')
