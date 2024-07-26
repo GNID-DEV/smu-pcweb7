@@ -1,61 +1,69 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# SMU PCWEB7: Got lobang bo…?!
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Welcome to the SMU PCWEB7 project! This repository focuses on building a crowdsourcing website where users can post their needs and wants for products or services and crowdsource good deals for their intended purchases. The platform is designed to help users make informed choices and avoid buyer's remorse by finding the best deals available.
 
-## About Laravel
+## Project Description
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+**Name**: Got lobang bo…?!
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+**Tagline**: No more buyer's remorse….Buay lugi liao!
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+**Description**: A crowdsourcing website where users can post their needs and wants for products or services and crowdsource good deals for their intended purchase.
 
-## Learning Laravel
+## Existing Versions
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+As of now, there are no known similar platforms available online based on our search.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Target Audience
 
-## Laravel Sponsors
+This platform is targeted at anyone who wants to find the best deal for their purchases.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Features
 
-### Premium Partners
+### User Features
+- **Register and Login**: Users must register and log in to create and manage their posts.
+- **Post Management**: Users can post, edit, and delete their needs and wants. Each post will include:
+  - Product Name
+  - Category Type
+  - Product Image
+  - Product Description
+  - Post Created Timestamp
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+### Viewer Features
+- **Commenting**: Viewers can share their thoughts or suggestions by commenting on posts. Each comment will include:
+  - Comment Post
+  - Comment Timestamp
 
-## Contributing
+## Why This Needs to Exist
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+This platform exists to assist users in making well-informed decisions by leveraging crowd-sourced information to find the best deals and avoid buyer's remorse.
 
-## Code of Conduct
+## Getting Started
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+1. **Clone the Repository**:
 
-## Security Vulnerabilities
+   Clone the repository to your local machine using:
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+   ```bash
+   gh repo clone YOUR_GITHUB_USERNAME/smu-pcweb7
+
+2. **Install Dependencies**:
+
+Install any necessary dependencies based on your technology stack.
+
+3. **Setup Your Project**:
+
+Follow the setup instructions to configure your environment and database.
+
+4. **Run Your Project**:
+
+Start your application and navigate to the appropriate URL to view and interact with your project.
+
+## Reflection
+I enrolled in this course to acquire the skills and knowledge necessary for building both web and mobile applications. Throughout the course, I've been introduced to cutting-edge technologies for web development, including Bootstrap for styling and Laravel for connecting the front-end with the back-end. There's still a lot more to explore, such as Node.js, Django, Docker, and others. I'm excited to continue expanding my skills and expertise in the field of programming.
+
+## Contribution
+Contributions to this project are welcome! If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
 
 ## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT License. See the LICENSE file for more details.
