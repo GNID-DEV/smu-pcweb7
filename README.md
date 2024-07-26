@@ -10,6 +10,8 @@ Welcome to the SMU PCWEB7 project! This repository focuses on building a crowdso
 
 **Description**: A crowdsourcing website where users can post their needs and wants for products or services and crowdsource good deals for their intended purchase.
 
+**YouTube Demo & Presentation**: https://youtu.be/3eteF1OV4Og 
+
 ## Existing Versions
 
 As of now, there are no known similar platforms available online based on our search.
